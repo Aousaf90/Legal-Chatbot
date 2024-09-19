@@ -1,0 +1,65 @@
+Question: Contact's Name
+Response: The content provided does not offer information suitable for the question "Contact's Name".
+
+Question: Email
+Response: The content provided does not include an email address for David Peters Distribution.
+
+Question: Contact's Cell Phone Number
+Response: (248) 839-8945
+
+Question: Primary Company Name
+Response: Company3 LLC
+
+Question: Address of Business Operations
+Response: The content provided does not include information on the "Address of Business Operations".
+
+Question: Street Address
+Response: 1050 W. Washington St., Suite 133, Tempe, AZ 85288
+
+89 Amherst Street, Nashua, NH 03064
+
+Question: Street Address Line 2
+Response: Suite 133
+
+Question: CityState
+Response: Apologies, but your question "CityState" is not clear. Could you please provide more details?
+
+Question: Zip Code
+Response: The content provided does not include information related to "Zip Code".
+
+Question: Would you like introductions to any of the following third-party vendors?
+Response: No, we are not interested in introductions to any third-party vendors at this time.
+
+Question: Would you like additional information on any of the following services provided through Crowdfunding Lawyers or its associated or of-counsel attorneys/firms?
+Response: Yes, I would like additional information on accounting, tax return preparation, legal, and related services provided through Crowdfunding Lawyers or its associated or of-counsel attorneys/firms.
+
+Question: Issuer Entity Information
+Response: The issuer entity information is not provided in the given content. The content only mentions the requirements for members to provide necessary information for annual elections and authorizes the company to share such information with the IRS.
+
+Question: Information and ideas for the business entity raising funds.
+Response: The business entity is a newly formed company that intends to pursue a proposed business. It has no prior experience in raising or investing funds and has not had any financial transactions. The company doesn't have any financial statements available for prospective investors' review. Management members lack experience in raising funds from investors, but they have significant experience in real estate investment. Therefore, potential investors should be comfortable making an investment without this information or deem such information non-essential to their decision-making process.
+
+Question: Proposed Issuer Entity Name
+Response: The proposed Issuer Entity Name is Subto Fund II, LLC.
+
+Question: Type of Entity*
+Response: The types of entities mentioned are individual, partnership, joint venture, corporation, limited liability company, trust, unincorporated organization, government, department, agency, political subdivision, or any other entity.
+
+Question: Is the Proposed Issuer already organized?
+Response: Yes, the Proposed Issuer is already organized as a newly formed company specifically to pursue its proposed business.
+
+Question: What State do you want the Issuer Entity formed/organized?
+Response: The Issuer Entity, Louisville-HTS H2A, LLC, is formed/organized in the state of Wyoming.
+
+Question: Complete whether Issuer has been formed or not.
+Response: The provided content does not provide information on whether the Issuer has been formed or not.
+
+Question: Company Telephone
+Response: The company's telephone number is (605) 838-0103.
+
+Question: Taxation category of Issuer Entity, tax as:
+Response: The taxation category of the Issuer Entity is Tax Liability Indemnification.
+
+Question: Do you expect to use the same Registered Agent for all entities we organize?
+Response: Based on the content provided, the response to the question "Do you expect to use the same Registered Agent for all entities we organize?" could be: "It's possible that the same Registered Agent could be used for all entities we organize, but the final decision will be determined by the Manager. The Manager has the authority to decide on different places or agents as necessary."
+

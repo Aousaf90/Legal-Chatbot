@@ -1,0 +1,1490 @@
+[
+    {
+        "type": "text field",
+        "question": "Contact's Name",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Email",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Contact's Cell Phone Number",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Primary Company Name",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Address of Business Operations",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address Line 2",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "CityState",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Zip Code",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Would you like introductions to any of the following third-party vendors?",
+        "options": [
+            "Broker-Dealer - technology compliance",
+            "Broker-Dealer - Managing BD for selling group",
+            "Compliance Consultant - securities",
+            "Investment Portal/ Technology Vendor",
+            "Marketing Agencies",
+            "Transfer Agents",
+            "CPA for financial audits",
+            "Technology portal",
+            "Graphic Designers",
+            "Escrow Company for securities",
+            "Fund administrator",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "checkbox",
+        "question": "Would you like additional information on any of the following services provided through Crowdfunding Lawyers or its associated or of-counsel attorneys/firms?",
+        "options": [
+            "Title/ Escrow services",
+            "Real estate transactional representation",
+            "1031 Exchange transaction",
+            "Trademarks or licensing",
+            "Mergers & acquisitions representation",
+            "Asset protection",
+            "Corporate or contract representation",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Issuer Entity Information",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Information and ideas for the business entity raising funds.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Proposed Issuer Entity Name",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Type of Entity*",
+        "options": [
+            "Limited liability company (LLC)",
+            "C Corporation",
+            "REIT",
+            "Limited Partnership",
+            "I don't know",
+            "Other"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Is the Proposed Issuer already organized?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "What State do you want the Issuer Entity formed/organized?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Complete whether Issuer has been formed or not.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Company Telephone",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Taxation category of Issuer Entity, tax as:",
+        "options": [
+            "Partnership",
+            "C-Corp",
+            "S-Corp",
+            "REIT",
+            "I don't know",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Do you expect to use the same Registered Agent for all entities we organize?",
+        "options": [
+            "Yes",
+            "No",
+            "I don't know",
+            "Other"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Add resident agent address if known.",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "What is the fiscal year for purposes of taxes and financial reporting?",
+        "options": [
+            "Calendar Year",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "checkbox",
+        "question": "Do you have a Registered Agent that you already plan to use?",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "What is being issued?",
+        "options": [
+            "Equity - shares/ units",
+            "Debt - convertible or secured or not",
+            "Token",
+            "SAFE Agreement - Simple Agreement for Future Equity",
+            "I don't know",
+            "Other"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Purpose of the Investment Offering?",
+        "options": [
+            "Real Estate Syndication (defined properties)",
+            "Real Estate Fund (undefined properties)",
+            "Existing Business (growth or public offering)",
+            "New Business (start-up/franchise/SPV/etc.)",
+            "Note/ Bond offering for Business",
+            "Investment Fund (equities/fund-of-funds or non-real estate)",
+            "Loan Fund (real estate or business)",
+            "Crypto/ NFT/ Token Offering",
+            "Other - please clarify"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Type of Investment Offering",
+        "options": [
+            "Reg D - Rule 504 Reg D - Rule 506(b) Reg D - Rule 506(c)",
+            "Reg A for a business Reg A for real estate Reg CF (crowdfunding)",
+            "Public Registered Offering Crowdfunding Portal (not offering)",
+            "Other Contract (not offering)"
+        ]
+    },
+    {
+        "type": "multiple-choice question",
+        "question": "Plan of investment distribution",
+        "options": [
+            "Management or others rely on issuer exemption from licensing",
+            "Broker-Dealer that have already engaged",
+            "RIAs that have already been engaged",
+            "BD or RIA but still seeking",
+            "Online crowdfunding portals",
+            "Other - Please explain in the Notes below"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "What is the minimum amount an investor may invest in the Issuer Entity?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "When do you hope to start raising capital?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "How quickly do you expect to need the capital that this questionnaire is based?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What is the Maximum Offering Amount of funds you are raising?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If you fully fund your offering, how much money will that include?",
+        "options": []
+    },
+    {
+        "type": "multiple-choice question",
+        "question": "Do you expect Unaccredited Investors to be able to invest?",
+        "options": [
+            "Unaccredited Investors are allowed under some investment laws but not all."
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "How often do you intend to provide to investors reporting on performance?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What is the Minimum Amount that Issuer will raise before breaking impounds?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Brief description of Company's Business Plan - executive summary can be uploaded separately",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If Other or additional concerns/thoughts on profit distributions between ownership classes? Please include your current thoughts which will be discussed",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What is the per share or per unit price?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "We recommend smaller unit shares to make easier for odd investments. $$$",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional notes on different ownership classes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "A (investors) and B (sponsors) = 2",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Distribution strategies to considered, based on:",
+        "options": [
+            "% - unit - or share ratable ownership",
+            "% preferred return then profit split",
+            "IRR preferred - return return of capital - then profit split",
+            "% profit split with performance requirements",
+            "I have no clue",
+            "Other - please clarify below"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Sponsor Class ownership interests - ledger can be separately uploaded. Name (beneficial owner) Entity Owner (if appropriate) Ownership % of the Sponsorship Class.",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Options for different classes of ownership interests?",
+        "options": [
+            "Percentage Common Ownership (1 Class)",
+            "Class A (investors) / Class B (sponsors)",
+            "Separate special purpose vehicle (SPV)",
+            "Other - please clarify below"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Will there be preferred returns to owners in addition to profit splits?",
+        "options": [
+            "Yes calculated on unreturned capital contributions",
+            "No only profit split",
+            "Yes but needs clarification"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Will the preferred return be cumulative or non-cumulative?",
+        "options": [
+            "No preferred return - N/A",
+            "Cumulative - means if there aren't funds to pay preferred return accrues",
+            "Non-cumulative - means the company only pays if there are funds available",
+            "Not sure - please clarify"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "How frequently do you plan to pay distributions/dividends?",
+        "options": [
+            "Monthly",
+            "Quarterly",
+            "Semi-annually",
+            "Annually",
+            "Other"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "When are distributions/dividends expected to start?",
+        "options": [
+            "Immediately after investment",
+            "1 Month after breaking impounds",
+            "1 quarter after breaking impounds",
+            "6 months after breaking impounds",
+            "1 year after breaking impounds",
+            "Distributions will not be paid until disposition/liquidation of assets.",
+            "We will not be paying distributions/dividends for the foreseeable future.",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "What exit strategies are expected with the investment?",
+        "options": [
+            "Sale of assets/property/business to 3rd party",
+            "Refinance investors with exit",
+            "Plan to roll into larger fund or offering in future",
+            "IPO - initial public offering",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Approximately how long is the investment expected to last?",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Not including the Offering proceeds, do you plan on using financing or incur other debts as part of the business?",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Tax Planning Information and ideas taxation considerations for Issuer.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes Debt/ Bond offerings Information and ideas for convertible notes, non-convertible unsecured loans, secured loans or bonds offerings.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Who will be the person responsible for communicating with the IRS in the event of an audit?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What is the minimum amount the Issuer will raise before breaking impounds?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Skip if not acquiring an asset or other conditions on raising capital.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes Skip if same as capital account allocation or profit distributions.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Company's ownership ledger - this can be this can be uploaded separately.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Name (beneficial owner)",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Shares/ Units owned",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Ownership % of the Issuer",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Is the loan convertible into equity interests?",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Where do you plan to sell the investments?",
+        "options": [
+            "All US States",
+            "Internationally",
+            "1 state only",
+            "More than 1 state but restricting some - clarify in Additional Notes below"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Tax allocation to owners will be based on:",
+        "options": [
+            "Capital account balances - Partnership/ LLC",
+            "Distributions (follow the money) - Partnership/ LLC",
+            "Dividends - C-Corporation/ REIT",
+            "Ownership (%-units-shares) - S-Corp./ Partnership/ LLC",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "When are payments going to be made?",
+        "options": [
+            "Monthly interest-only until maturity date",
+            "Monthly amortized payments until maturity date",
+            "No payments until maturity date",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Besides the state of formation, what other states or countries does the Business operate or plan to operate in?",
+        "options": [
+            "All States",
+            "International",
+            "State that real estate is located",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Date of Organization of Company",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "IPO (Initial Public Offering) Information",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Information and ideas for investment offerings registered with the SEC. Please take notice that additional information,",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Do you already have a Company Tax ID (EIN) for the Issuer?",
+        "options": [
+            "No I need instructions",
+            "No not until its organized",
+            "Yes - please list the EIN in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "Do you have a CPA for any financial statement requirements:",
+        "options": [
+            "Auditing CPA for capital raises above $1235000",
+            "Reviewing CPA for capital raises between $107000 and $1235000",
+            "I need a referral for a CPA",
+            "I have previously completed a raise under Reg CF",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "question",
+        "question": "As of this date, does the company have any transactions, assets, or bank accounts to consider?",
+        "options": []
+    },
+    {
+        "type": "question",
+        "question": "Does the Company already have an Operating Agreement/Bylaws?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "List of all current or anticipated litigation or proceedings against Issuer.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Existing Company",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "This includes background information for any Issuers that are currently in existence and operating.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If stock is publicly traded, state the range of high and low bid information for the equity for each full quarterly period within the two most recent fiscal years and any subsequent interim period up to this date.",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Has the Issuer issued any securities prior to the proposed offering?",
+        "options": [
+            "No",
+            "Yes equity interests",
+            "Yes debt investments (promissory notes/ bonds/ debentures)",
+            "Yes derivatives (options/ warrants/ SAFE agreements/ etc.)",
+            "Yes but I need to clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Has there been prior securities issued or other ownership transfers prior to the planned offering?",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Type a Property/ Project",
+        "options": [
+            "Multifamily Apartments",
+            "Self-Storage",
+            "Mobile Home Parks",
+            "Single-family homes or neighborhoods for rent",
+            "Commercial - retail/ restaurant/ office/ medical",
+            "Development - ground-up construction"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Financial Statement Requirements",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Description of Issuers real estate or other material assets",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "New Start-Up Company",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Information and ideas for the Issuer Entity for Business Start-Ups, Franchises, or SPVs.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Describe Management Team",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Identify Managers, Officers, Directors and Key Principals",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If SPV, what entity is it going to invest into?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Special Purpose Vehicles set up as a pass-through issuer to invest in target company.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "General information that should be considered",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Limited Liability Company (LLC) Management",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Please describe any compensation paid to management or material employees including stock options and salary.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What is the total Purchase Price for the property(ies)?",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Type of New Business",
+        "options": [
+            "Acquire or merge with another business",
+            "Start-up business",
+            "Opening franchise - please name in Additional Notes",
+            "Special Purpose Vehicle investment",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Acquisition Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Describe your start-up business or acquisition plan",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Disposition Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Acquisition/ Disposition Fee basis of calculation",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Real Estate Syndications",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee basis of calculation",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "How many real estate investments/syndications have you operated in the past?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Property Management Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Refinancing Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Construction Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Development Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Any Other Fees or Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Manager Entity Address",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address Line 2",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "City State / Province",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Postal / Zip Code",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Real Estate Funds",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Will the Fund be investing in a certain type of real estate? (check all that apply)",
+        "options": [
+            "Multifamily",
+            "Development - construction",
+            "Vacation Rentals",
+            "Fix n Flip Opportunities",
+            "Single Family Residential for rent",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Property Description and Transaction Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Please describe the property(ies).",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Management Fees Information and ideas for management fees paid to the Manager of the Issuer Entity.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Financing Fee Skip if none expected.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Management Fees Information and ideas for management fees paid to the Manager of the Issuer Entity.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Acquisition Fee Skip if none expected.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee Skip if none expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Disposition Fee Skip if none is expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Acquisition/ Disposition Fee basis of calculation Generally based upon purchase price.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee Skip if none expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Property Management Fee Skip if 3rd party provider or none expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "How many real estate investments/syndications have you operated in the past?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Financing Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Construction Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If management loans funds to the company, what interest rate will be charged?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Development Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Any other fees or Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If management loans funds to the company, what interest rate will be charged?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Describe the Geographic Region or target market of the investing activities",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Please clarify your anticipated area of investments",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "How will interest be calculated?",
+        "options": [
+            "simple non-compounding",
+            "compounding each payment period",
+            "compounding monthly",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "If convertible, how will the conversion be effectuated?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "When do you expect the debt/notes issued to mature? I.e., the repayment date.*",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Investor repayment date",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Refinancing Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee basis of calculation",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Types of Loans expected to be made*",
+        "options": [
+            "Real Estate - 1st lien",
+            "Real Estate - 2nd lien or unsecured",
+            "Business - secured",
+            "Business - unsecured",
+            "Convertible Notes",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Financing/ Debt Expectations",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Loans that you anticipate the issuer entity obtaining?",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "When are payments going to be made?",
+        "options": [
+            "Monthly interest-only until maturity date",
+            "Monthly amortized payments until maturity date",
+            "No payments until maturity date",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "When do you expect the debt/notes issued to mature? I.e., the maturity date.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "What type of maturity date described in months or years from the date of the loan acceptance/funding.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Loan exits",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "",
+        "options": [
+            "Loan payoffs",
+            "Sale to private equity or private lender",
+            "Sale to wholesalers",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "multichoice",
+        "question": "What type of financing do you expect?",
+        "options": [
+            "traditional bank financing",
+            "Fannie Mae or Freddie Mac",
+            "SBA/ HUD/ or other government-backed financings",
+            "hard money or short-term bridge loan",
+            "private investors - not included in offering",
+            "Yes but no clue what kind",
+            "Yes other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes and Business Plan information",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Mortgage/ Loan Fund Information",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "What financing terms are you expecting?",
+        "options": [
+            "Skip if you don't have any expectations"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Origination Fees",
+        "options": [
+            "20"
+        ]
+    },
+    {
+        "type": "checkbox",
+        "question": "Estimated Annual Interest Rate Range",
+        "options": [
+            "1-5%",
+            "5-10%",
+            "11-15%",
+            "16%+",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "File Uploads",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "For your Offering, to the extent that you have any of the following at hand, please upload:",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "For Real Estate Syndications",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "For Business Capitalizations",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If you are funding through a broker-dealer, RIA, or finders",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "When do you expect the loans made to mature for borrowers?",
+        "options": [
+            "1-3 months",
+            "3-8 months",
+            "9-24 months",
+            "3+ years",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Refinance Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional information that should be considered",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Cryptocurrency, NFT or Token considerations",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Proposed Manager Name",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Skip if you don't have any idea.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Management Fees",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Type of Fee Percentage or Fixed Fee (describe)",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Recurring Annually?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "1",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "2",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "3",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "4",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Do you currently have assets under management (AUM) between all your prior funds.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "22",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If the Manager entity is already formed, what state was it organized in?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Proposed GP Name",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "What type of digital asset are you going to offer?",
+        "options": [
+            "Crypto commodity",
+            "Trading fund",
+            "Digital currency w/ utility",
+            "Tokenize real estate"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional information that should be considered",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Investment Funds",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Have you filed your company or contracted any of the following to represent your investment fund:",
+        "options": [
+            "Exempt Reporting Advisor",
+            "Registered Investment Advisor (RIA)",
+            "Commodities-broker",
+            "Broker-dealer",
+            "Other - please clarify in Additional Notes"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Please describe any FINRA Series license that you may hold and if placed with any current broker-dealers or registered",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "GP Entity Address",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Street Address Line 2",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "City State / Province",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Postal / Zip Code",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "If the GP entity is already formed, what state was it organized in?",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Management Fees",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Servicing Fees",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "GP's Control Parties Name Position Ownership %",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Manager's Control Parties Name Position Ownership %",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Origination Fee basis",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Generally based upon loan principal",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Skip if none expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "25",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Asset Management Fee basis of calculation",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Officer Searches & Background Information",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Manager's Business Phone Number",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Property Management Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Loan Doc/ Administration Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "General Partner (GP) Management",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "Confirm that neither the Issuer nor any director, officer or underwriter is disqualified from Regulation A due to \u201cbad boy\u201d acts listed in rule 262 of the securities act of 1933",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "GP's Business Phone Number",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Capital Use of Proceeds Information",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Detailed use of offering proceeds- should detail as if 100%, 75%, 50%, and 25% of maximum offering amount is raised. May be separately uploaded.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Category Description 100% Funded 75% Funded 50% Funded 25% Funded",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "1.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "2.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "3.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "4.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "5.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "6.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "7.",
+        "options": []
+    },
+    {
+        "type": "multichoice",
+        "question": "Have you already started the financing process?",
+        "options": [
+            "Yes but still finding options",
+            "Yes and I have a conditional commitment",
+            "No"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Construction Oversight Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Skip if none expected",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Securities laws require that an entity raising capital by selling securities, such as the Issuer, conduct a \u201creasonable investigation\u201d to determine whether certain individuals involved in the offering (\u201ccovered persons\u201d) may be disqualified from participating in the investment offering. This investigation involves the Issuer requesting that potentially covered persons complete a questionnaire regarding potential disqualifying events and conducting a background check of publicly available information. Any possible \u201cbad acts\u201d disclosed in the questionnaire and/or background check may require further inquiry to",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "We have a separate officer questionnaire for covered persons if:",
+        "options": [
+            "All manager, director, officer, general partner, managing member, promoter, key principal, or sponsor for the Issuer of the contemplated securities offering.",
+            "All persons involved in raising capital, managing, or promoting the offering on behalf of the Issuer.",
+            "All persons that are or expect to be a 20%+ equity or voting interests holder in the Issuer."
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "From the date of first breaking impounds, estimated capital requirements and description for each phase of operations.",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Complete the following as appropriate for expected offering expenses: Category of Service Provider Name Fee",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Underwriters",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Commissioned sales",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Finder fees",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Audit and CPA expense",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Legal expense",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Promoters",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Blue-Sky compliance",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Please list all persons that are covered persons under 1, 2, or 3 above:",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Tags",
+        "options": []
+    },
+    {
+        "type": "checkbox",
+        "question": "",
+        "options": [
+            "Todo",
+            "In Progress",
+            "Done",
+            "Referrals Wanted"
+        ]
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes on Use of Proceeds",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "For clarification as appropriate",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    },
+    {
+        "type": "text field",
+        "question": "Additional Notes",
+        "options": []
+    }
+]

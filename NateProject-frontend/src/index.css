@@ -1,0 +1,6 @@
+@import "/assets/vendors/apexcharts/apexcharts.css";
+@import "/assets/vendors/keenicons/styles.bundle.css";
+@import "/assets/css/styles.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
